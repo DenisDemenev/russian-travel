@@ -1,12 +1,12 @@
-.place__link {
+.cover__subtitle {
+  max-width: 360px;
   color: white;
   font-family: "Inter", "Arial", sans-serif;
   font-weight: 400;
   font-size: 18px;
   line-height: 1.22;
-  transition: opacity 0.2s ease-in-out;
+  text-align: center;
+  margin: 0;
+  z-index: 2;
 }
 
-.place__link:hover {
-  opacity: 0.8;
-}
